@@ -1,5 +1,5 @@
 #!/bin/bash
-### This script calculate sin(x) using POW and Factorial
+### This script calculate cos(x) using POW and Factorial
 ### Where cos(x) = 1-x^2/2!+x^4/4!-x^6/6!.... 1000, x in redian, x(radian)= X(degree) * pi/180
 ### This scrept accept 1 parameter (x)
 
